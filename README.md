@@ -67,3 +67,5 @@ Also use of Ai models like Claude OPUS / FABLE may create a chaos, maybe will be
 <div align="center">
 # Hardrik Thomas Shaji , Yours _shift_xd_
 <div align="center">
+
+<img width="1184" height="144" alt="repooo" src="https://github.com/user-attachments/assets/bcedc212-640c-45d1-8263-af256824684a" />
