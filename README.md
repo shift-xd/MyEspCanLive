@@ -10,7 +10,7 @@
 
 <div align="center">
 
-# <span style="font-size: 52px; font-weight: 900; font-family: 'Abril Fatface'; color: #FFFFFF; letter-spacing: 4px; text-shadow: 0 4px 8px rgba(0,0,0,0.4);">ABOUT</span>
+# <span style="font-size: 32px; font-weight: 900; font-family: 'Abril Fatface'; color: #FFFFFF; letter-spacing: 3px; text-shadow: 0 3px 6px rgba(0,0,0,0.35);">ABOUT</span>
 
 </div>
 
@@ -18,11 +18,11 @@ MyEspCanLive / ജീവനുള്ള Esp is a project that aims on giving our
 
 <div align="center">
 
-# <span style="font-size: 52px; font-weight: 900; font-family: 'Abril Fatface'; color: #FFFFFF; letter-spacing: 4px; text-shadow: 0 4px 8px rgba(0,0,0,0.4);">GETTING STARTED</span>
+# <span style="font-size: 32px; font-weight: 900; font-family: 'Abril Fatface'; color: #FFFFFF; letter-spacing: 3px; text-shadow: 0 3px 6px rgba(0,0,0,0.35);">GETTING STARTED</span>
 
 </div>
 
-## <span style="font-size: 32px; font-weight: 900; font-family: 'Abril Fatface'; color: #FFFFFF; letter-spacing: 3px; text-shadow: 0 4px 8px rgba(0,0,0,0.4);">Getting the esp ready for the brainwashing</span>
+## <span style="font-size: 24px; font-weight: 900; font-family: 'Abril Fatface'; color: #FFFFFF; letter-spacing: 2px; text-shadow: 0 2px 4px rgba(0,0,0,0.3);">Getting the esp ready for the brainwashing</span>
 
 step 1 : Get an esp ofc 😆  
 step 2 : get a pc too lol 😅  
@@ -36,7 +36,7 @@ Step 9 : Umm please dont abuse our little esp :)
 
 <div align="center">
 
-# <span style="font-size: 52px; font-weight: 900; font-family: 'Abril Fatface'; color: #FFFFFF; letter-spacing: 4px; text-shadow: 0 4px 8px rgba(0,0,0,0.4);">SMOL WARNING</span>
+# <span style="font-size: 32px; font-weight: 900; font-family: 'Abril Fatface'; color: #FFFFFF; letter-spacing: 3px; text-shadow: 0 3px 6px rgba(0,0,0,0.35);">SMOL WARNING</span>
 
 </div>
 
