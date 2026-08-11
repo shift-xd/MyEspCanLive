@@ -37,13 +37,14 @@ Step 9 : Umm please dont abuse our little esp :)
 
 
 <img width="1184" height="144" alt="Usage" src="https://github.com/user-attachments/assets/8cde084d-6857-4de1-9673-07bff5b1fabe" />
-###This is to be done after firmware flashing
 
-Step 1 : Open Bluetooth and Connect to the ESP 32
-Step 2 : An IP adress will replace the Bluetooth Device name 
-Step 3 : Open that IP Address 
-Step 4 : Ask Ai a task 
-Step 5 : Execute that task 🍪
+### This is to be done after firmware flashing
+
+1. **Step 1 :** Open Bluetooth and Connect to the ESP 32  
+2. **Step 2 :** An IP adress will replace the Bluetooth Device name  
+3. **Step 3 :** Open that IP Address  
+4. **Step 4 :** Ask Ai a task  
+5. **Step 5 :** Execute that task 🍪
 
 <div align="center">
 <img width="1184" height="144" alt="Munnariyip" src="https://github.com/user-attachments/assets/8880dd41-5856-4a4e-a8ae-5097b2deed66" />
