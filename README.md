@@ -23,7 +23,7 @@ MyEspCanLive / ജീവനുള്ള Esp is a project that aims on giving our
 
 </div>
 
-## <span style="font-size: 24px; font-weight: 900; font-family: 'Abril Fatface'; color: #FFFFFF; letter-spacing: 2px; text-shadow: 0 2px 4px rgba(0,0,0,0.3);">Getting the esp ready for the brainwashing</span>
+### <span style="font-size: 24px; font-weight: 900; font-family: 'Abril Fatface'; color: #FFFFFF; letter-spacing: 2px; text-shadow: 0 2px 4px rgba(0,0,0,0.3);">Getting dear esp ready for the brainwashing</span>
 
 step 1 : Get an esp ofc 😆  
 step 2 : get a pc too lol 😅  
